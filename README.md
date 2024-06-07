@@ -49,7 +49,7 @@ npm run docs:dev
 4. 项目打包
 
 ```
-npm 
+npm run docs:build
 ```
 
 ## 项目贡献

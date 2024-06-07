@@ -2,8 +2,6 @@
 
 ##
 
-[百度一下，你就知道](baidu.com "搜索网站")
-
 <a href="超链接地址" title="超链接title">超链接显示名</a>
 
 https://mermaid.js.org/syntax/sequenceDiagram.html

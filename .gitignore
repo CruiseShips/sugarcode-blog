@@ -1,1 +1,13 @@
+# dir
+
+# 环境
 node_modules/
+# 打包路径
+dist/
+# idea vscode工具目录
+.idea/
+.vscode/
+# 缓存
+cache/
+
+# file

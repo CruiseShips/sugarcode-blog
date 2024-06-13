@@ -11,7 +11,7 @@ hero:
           text: 站点说明
           link: /aboutSite
     image:
-        src: /image/sign.jpg
+        src: /images/system/sign.jpg
 
 features:
     - title: 面试题
@@ -22,8 +22,11 @@ features:
       details: 碰到需求不会做？
       link: ""
       linkText: 来，直接上车！
-    - title: 学习
-      details: 学习老是找不到自己的方式？
+    - title: 干货分享
+      details: 直接开卷！
       link: ""
-      linkText: 来，直接上车！
+      linkText: 来，上车！
 ---
+
+## 关注 Sugar Code
+![Sugar Code 公众号](/images/common/SearchSugarCode.png)

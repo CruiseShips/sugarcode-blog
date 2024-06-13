@@ -18,10 +18,6 @@ const interviewRoute = {
                     text: "Java-基础",
                     link: "/docs/interview/java/base",
                 },
-                {
-                    text: "Java-集合",
-                    link: "/docs/interview/java/collect",
-                },
             ],
         },
     ],
@@ -35,26 +31,12 @@ const knowledgeRoute = {
     "/docs/knowledge": [
         { text: "写在前面", link: "/docs/knowledge/readBefore" },
         {
-            text: "数据库",
+            text: "Markdown",
+            collapsed: true,
             items: [
                 {
-                    text: "MySQL",
-                    collapsed: true,
-                    items: [
-                        {
-                            text: "测试",
-                            link: "/docs/knowledge/database/mysql/test",
-                        },
-                    ],
-                },
-                {
-                    text: "Redis",
-                    items: [
-                        {
-                            text: "测试",
-                            link: "/docs/knowledge/database/redis/test",
-                        },
-                    ],
+                    text: "Markdown-基础",
+                    link: "/docs/knowledge/markdown/base",
                 },
             ],
         },

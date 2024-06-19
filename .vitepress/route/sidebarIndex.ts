@@ -15,8 +15,12 @@ const interviewRoute = {
             collapsed: true,
             items: [
                 {
-                    text: "Java-基础",
+                    text: "Base 基础",
                     link: "/docs/interview/java/base",
+                },
+                {
+                    text: "Collect 集合",
+                    link: "/docs/interview/java/collect",
                 },
             ],
         },
@@ -35,8 +39,24 @@ const knowledgeRoute = {
             collapsed: true,
             items: [
                 {
-                    text: "Markdown-基础",
+                    text: "Base 基础",
                     link: "/docs/knowledge/markdown/base",
+                },
+                {
+                    text: "Table 表格",
+                    link: "/docs/knowledge/markdown/table",
+                },
+                {
+                    text: "Mermaid 图表",
+                    link: "/docs/knowledge/markdown/mermaid",
+                },
+                {
+                    text: "Vitepress 内置扩展语法",
+                    link: "/docs/knowledge/markdown/vitepress",
+                },
+                {
+                    text: "Emoji 表情",
+                    link: "/docs/knowledge/markdown/emoji",
                 },
             ],
         },

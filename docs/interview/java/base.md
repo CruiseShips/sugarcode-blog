@@ -2,8 +2,8 @@
 
 ## 1. Java 中 JDK 和 JRE 有什么区别？1️⃣
 ::: info 考点
-- **JDK**：Java Development Kit（Java 开发工具包），是整个 Java 的核心。JDK 中包括了 Java 编译器、JRE（Java 运行环境）、JavaDoc 文档生成器和其他一些工具。
-- **JRE**：Java Runtime Environment（Java 运行时环境），它用于运行已编译的Java应用程序。它里面包含了 Java 虚拟机、类加载器、运行时类库和其他支持文件。
+- **JDK**：`Java Development Kit`（Java 开发工具包），是整个 Java 的核心。JDK 中包括了 Java 编译器、JRE（Java 运行环境）、JavaDoc 文档生成器和其他一些工具。
+- **JRE**：`Java Runtime Environment`（Java 运行时环境），它用于运行已编译的Java应用程序。它里面包含了 Java 虚拟机、类加载器、运行时类库和其他支持文件。
 :::
 
 ## 2. 值传递和引用传递的区别？3️⃣🍇
@@ -127,8 +127,8 @@ hash 碰撞是指两个不同的输入值，经过哈希函数的处理后，得
 | 控制访问权限 | 只能是 public | 无限制 |
 :::
 :::tip 拓展
-* 接口类中可以定义 static 方法和 defaule 方法，但是必须要有实现。
-* 抽象类中的抽象方法不能是 private 修饰
+* 接口类中可以定义 `static` 方法和 `defaule` 方法，但是必须要有实现。
+* 抽象类中的抽象方法不能是 `private` 修饰
 :::
 
 ## 9. 重载和重写区别？2️⃣🍌

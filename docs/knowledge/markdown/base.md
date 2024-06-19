@@ -11,8 +11,11 @@
 #### 四级标题
 ##### 五级标题
 ```
-* 效果
+:::info 效果
 ![标题](/images/service/knowledge/markdown/Biaoti.png)
+
+之所以放了一张图，是因为怕 `vitepress` 根据他们创建对应的标题层级。
+:::
 
 ## 文本
 * 功能&示例
@@ -146,7 +149,13 @@
 > 可以更好的展示代码；而且在鼠标移动到代码块的右上角，还会有复制按钮。
 
 * 代码展示
-![代码块](/images/service/knowledge/markdown/CodeBlock.jpg)
+````
+``` java
+public static void main(String args[]) {
+    System.out.println("你好，代码块！");
+}
+```
+````
 
 :::info 效果
 ``` java
@@ -155,9 +164,11 @@
     }
 ```
 
-"代码展示"中后面的 java 可以替换为其他语言。比如说 typescript、javascript 等等。
+"代码展示"中后面的 java 可以替换为其他语言的简写或者全称。比如说 ts、js、py 等等。
+:::
 
-这里的代码展示本应该放置可复制的代码，但是由于技术原因，就直接使用的图片~
+:::warning 注意
+这里的代码展示本应该放置可复制的代码，但是由于符号原因，现在需要复制后，去掉所有的 `前置空格（4个）` 才可正常使用。
 :::
 
 ## 自动链接

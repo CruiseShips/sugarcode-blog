@@ -33,5 +33,11 @@ export default defineConfig({
         footer: {
             copyright: "Copyright © 2024 suagecode.cn 版权所有",
         },
+
+        search: {
+            provider: "local",
+        },
     },
 });
+
+// SEO https://blog.csdn.net/qq_41340258/article/details/136244607

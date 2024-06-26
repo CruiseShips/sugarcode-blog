@@ -60,6 +60,26 @@ const knowledgeRoute = {
                 },
             ],
         },
+        {
+            text: "数据库",
+            collapsed: true,
+            items: [
+                {
+                    text: "MySQL",
+                    collapsed: true,
+                    items: [
+                        {
+                            text: "索引原理",
+                            link: "/docs/knowledge/database/mysql/index_principle",
+                        },
+                        {
+                            text: "索引设计原则",
+                            link: "/docs/knowledge/database/mysql/index_design_principles",
+                        },
+                    ],
+                },
+            ],
+        },
     ],
 };
 

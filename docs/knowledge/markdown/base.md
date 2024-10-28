@@ -201,6 +201,17 @@ public static void main(String args[]) {
 [Sugar Code](https://sugarcode.cn)
 :::
 
+我们如果想让链接在新窗口打开，可以使用 `{target="_blank"}`
+
+* 代码展示
+```
+[Sugar Code](https://sugarcode.cn){target="_blank"}
+```
+
+:::info 效果
+[Sugar Code](https://sugarcode.cn){target="_blank"}
+:::
+
 ## 图片
 * 功能
 > 展示项目中（本地）的图片。

@@ -22,6 +22,14 @@ const interviewRoute = {
                     text: "Collect 集合",
                     link: "/docs/interview/java/collect",
                 },
+                {
+                    text: "Design Pattern 设计模式",
+                    link: "/docs/interview/java/design_pattern",
+                },
+                {
+                    text: "Thread 线程",
+                    link: "/docs/interview/java/thread",
+                },
             ],
         },
     ],
@@ -34,6 +42,44 @@ const caseRoute = {
 const knowledgeRoute = {
     "/docs/knowledge": [
         { text: "写在前面", link: "/docs/knowledge/readBefore" },
+        {
+            text: "Java",
+            collapsed: true,
+            items: [
+                {
+                    text: "关键字",
+                    collapsed: true,
+                    items: [
+                        {
+                            text: "synchronized",
+                            link: "/docs/knowledge/java/keyword/synchronized",
+                        },
+                    ],
+                },
+                {
+                    text: "类",
+                    collapsed: true,
+                    items: [
+                        {
+                            text: "Executors",
+                            link: "/docs/knowledge/java/class/executors",
+                        },
+                        {
+                            text: "Callable & Future & FutureTask",
+                            link: "/docs/knowledge/java/class/callable_future_futureTask",
+                        },
+                        {
+                            text: "CompleteFuture",
+                            link: "/docs/knowledge/java/class/completeFuture",
+                        },
+                        {
+                            text: "ForkJoinPool",
+                            link: "/docs/knowledge/java/class/forkJoinPool",
+                        },
+                    ],
+                },
+            ],
+        },
         {
             text: "Markdown",
             collapsed: true,

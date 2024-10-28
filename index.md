@@ -16,15 +16,15 @@ hero:
 features:
     - title: 面试题
       details: 还在为面试发愁？
-      link: ""
+      link: "/docs/interview/readBefore"
       linkText: 来，直接上车！
     - title: 案例展示
       details: 碰到需求不会做？
-      link: ""
+      link: "/docs/case/readBefore"
       linkText: 来，直接上车！
     - title: 干货分享
       details: 直接开卷！
-      link: ""
+      link: "/docs/knowledge/readBefore"
       linkText: 来，上车！
 ---
 

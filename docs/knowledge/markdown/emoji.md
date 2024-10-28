@@ -8,4 +8,4 @@
 😀💯🤯🧛‍♀️🛀🐼🐍🫚🥪🌟🛥♥📮🧴🚺↗🏳️‍⚧️🟧
 :::
 
-所有表情：<https://www.emojiall.com/zh-hans/copy>
+[所有表情](https://www.emojiall.com/zh-hans/copy){target="_blank"}

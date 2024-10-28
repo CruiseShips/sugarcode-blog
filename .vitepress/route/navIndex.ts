@@ -9,7 +9,7 @@ const navRoute = [
         link: "/docs/knowledge/readBefore",
     },
     {
-        text: "案例代码",
+        text: "案例展示",
         link: "/docs/case/readBefore",
     },
     { text: "站点说明", link: "/docs/aboutSite" },

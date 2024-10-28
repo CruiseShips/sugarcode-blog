@@ -18,8 +18,8 @@ features:
       details: 还在为面试发愁？
       link: "/docs/interview/readBefore"
       linkText: 来，直接上车！
-    - title: 案例展示
-      details: 碰到需求不会做？
+    - title: 案例代码
+      details: 没有合适的项目练手？
       link: "/docs/case/readBefore"
       linkText: 来，直接上车！
     - title: 干货分享

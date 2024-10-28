@@ -36,7 +36,13 @@ const interviewRoute = {
 };
 
 const caseRoute = {
-    "/docs/case": [{ text: "写在前面", link: "/docs/case/readBefore" }],
+    "/docs/case": [
+        { text: "写在前面", link: "/docs/case/readBefore" },
+        {
+            text: "King Password",
+            link: "/docs/case/kingpassword/readme",
+        },
+    ],
 };
 
 const knowledgeRoute = {

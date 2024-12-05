@@ -44,6 +44,8 @@ npm install vitepress
 
 ```
 npm run docs:dev
+
+npx vitepress dev docs
 ```
 
 4. 项目打包

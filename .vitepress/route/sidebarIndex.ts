@@ -30,6 +30,10 @@ const interviewRoute = {
                     text: "Thread 线程",
                     link: "/docs/interview/java/thread",
                 },
+                {
+                    text: "JVM",
+                    link: "/docs/interview/java/jvm",
+                },
             ],
         },
     ],
@@ -81,6 +85,26 @@ const knowledgeRoute = {
                         {
                             text: "ForkJoinPool",
                             link: "/docs/knowledge/java/class/forkJoinPool",
+                        },
+                    ],
+                },
+                {
+                    text: "架构",
+                    collapsed: true,
+                    items: [
+                        {
+                            text: "AOT",
+                            link: "/docs/knowledge/java/architecture/aot",
+                        },
+                    ],
+                },
+                {
+                    text: "Spring Boot",
+                    collapsed: true,
+                    items: [
+                        {
+                            text: "Properties Secret",
+                            link: "/docs/knowledge/java/springboot/properties_secret",
                         },
                     ],
                 },

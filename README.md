@@ -57,3 +57,12 @@ npm run docs:build
 ## 项目贡献
 
 如果您也想来维护 SugarCode，可以按照以下步骤进行操作：
+
+
+动态定时任务
+https://juejin.cn/post/7372377436464660506
+
+自定义注解实现参数校验
+
+对springboot jar 加密
+

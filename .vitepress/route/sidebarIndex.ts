@@ -99,12 +99,24 @@ const knowledgeRoute = {
                     ],
                 },
                 {
-                    text: "Spring Boot",
+                    text: "构建组件",
                     collapsed: true,
                     items: [
                         {
-                            text: "Properties Secret",
-                            link: "/docs/knowledge/java/springboot/properties_secret",
+                            text: "配置加密 - Properties Secret",
+                            link: "/docs/knowledge/java/buildingBlocks/properties_secret",
+                        },
+                        {
+                            text: "单体缓存 - ExpiringMap",
+                            link: "/docs/knowledge/java/buildingBlocks/expiringMap",
+                        },
+                        {
+                            text: "重试 - Retry",
+                            link: "/docs/knowledge/java/buildingBlocks/retry",
+                        },
+                        {
+                            text: "验证码 - captcha",
+                            link: "/docs/knowledge/java/buildingBlocks/captcha",
                         },
                     ],
                 },

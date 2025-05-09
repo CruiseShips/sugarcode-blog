@@ -115,8 +115,12 @@ const knowledgeRoute = {
                             link: "/docs/knowledge/java/buildingBlocks/retry",
                         },
                         {
-                            text: "验证码 - captcha",
+                            text: "验证码 - Captcha",
                             link: "/docs/knowledge/java/buildingBlocks/captcha",
+                        },
+                        {
+                            text: "字段转换 - Dict Convert",
+                            link: "/docs/knowledge/java/buildingBlocks/dict_convert",
                         },
                     ],
                 },

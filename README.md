@@ -58,7 +58,7 @@ npm run docs:build
 
 如果您也想来维护 SugarCode，可以按照以下步骤进行操作：
 
-
+## 即将更新功能
 动态定时任务
 https://juejin.cn/post/7372377436464660506
 
@@ -66,3 +66,5 @@ https://juejin.cn/post/7372377436464660506
 
 对springboot jar 加密
 
+@Primary   @Conditional
+https://blog.csdn.net/qq_38923350/article/details/145817846
